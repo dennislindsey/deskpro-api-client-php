@@ -49,7 +49,7 @@ class DeskproClient implements DeskproClientInterface
     /**
      * Base API path
      */
-    const API_PATH = '/api/v2';
+    const API_PATH = '/index.php/api';
 
     /**
      * Path to batch endpoint
